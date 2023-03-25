@@ -1,7 +1,5 @@
 # node-todo-cicd-master
  
-Run these commands:
-
 sudo apt install nodejs
 
 sudo apt install npm
